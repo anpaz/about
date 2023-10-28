@@ -2,9 +2,9 @@ A natural born trailblazer, I am frequently working on projects that are a bit a
 
 ### Publications
 
-  - [How to choose a decoder for a fault-tolerant quantum computer? The speed vs accuracy trade-off](https://scholar.google.com/scholar?oi=bibs&cluster=14346917698909129078&btnI=1&hl=en)
+  - [How to choose a decoder for a fault-tolerant quantum computer? The speed vs accuracy trade-off](https://arxiv.org/abs/2310.15313)
   - [Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL](https://dl.acm.org/doi/abs/10.1145/3183895.3183901)
-  - [Cost to serve of large scale online systems](https://scholar.google.com/scholar?oi=bibs&cluster=11765397427345892575&btnI=1&hl=en)
+  - [Cost to serve of large scale online systems](https://ieeexplore.ieee.org/abstract/document/7856738)
 
 
 ### Experience
