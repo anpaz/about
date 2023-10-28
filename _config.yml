@@ -2,7 +2,9 @@ theme: jekyll-theme-minimal
 title: Andrés Paz
 logo: https://0.gravatar.com/avatar/47ee92ce481a8b60b4b3497140775c7adc2107cfb31e8f536737fff32bb49c39?size=256
 description: |
-  Architect, Quantum Computing (University of Washington, Microsoft)
+  Architect, Quantum Computing <br />
+  (<a href="https://uwplse.org/">University of Washington</a>, 
+   <a href="https://quantum.microsoft.com/">Microsoft</a>)
   <div><a href="https://www.linkedin.com/in/andrespaz/">LinkedIn</a></div>
 
 github:
