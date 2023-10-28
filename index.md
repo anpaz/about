@@ -9,7 +9,7 @@ A natural born trailblazer, I am frequently working on projects that are a bit a
 
 ### Experience
 
-  - Principal Architect, Microsoft Quantum (2017- )
-  - Principal Developer, Bing Platforms (2013-2017)
-  - Senior Developer, Xbox Live (2010-2013)
-  - Tech Lead, Yahoo! (2005- 2010)
+  - Architect, Microsoft Quantum (2017- )
+  - Developer, Bing Platforms (2013-2017)
+  - Developer, Xbox Live (2010-2013)
+  - Tech Lead & Manager, Yahoo! (2005- 2010)
