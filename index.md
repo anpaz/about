@@ -1,4 +1,4 @@
-A natural born trailblazer, I am frequently working on projects that are a bit ahead of their time: I built Mexico's first commercial internet directory before the internet was known to most Mexicans; I learned about Neural Networks and AI during my graduate years; now-a-days I work on the end-to-end architecture for a quantum super-computer.
+A natural born trailblazer, I am frequently working on projects that are a bit ahead of their time: I built Mexico's first commercial internet directory before the internet was known to most Mexicans; I learned about Neural Networks and AI during my (first) graduate years; now-a-days I work on the end-to-end architecture for a quantum super-computer.
 
 ### Publications
 
