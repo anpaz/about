@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+A natural born trailblazer, I am frequently working on projects that are a bit ahead of their time: I built Mexico's first commercial internet directory before the internet was known to most Mexicans; I learned about Neural Networks and AI during my graduate years; now-a-days I work on the end-to-end architecture for a quantum super-computer.
 
-You can use the [editor on GitHub](https://github.com/anpaz/about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  - [How to choose a decoder for a fault-tolerant quantum computer? The speed vs accuracy trade-off](https://scholar.google.com/scholar?oi=bibs&cluster=14346917698909129078&btnI=1&hl=en)
+  - [Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL](https://dl.acm.org/doi/abs/10.1145/3183895.3183901)
+  - [Cost to serve of large scale online systems](https://scholar.google.com/scholar?oi=bibs&cluster=11765397427345892575&btnI=1&hl=en)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anpaz/about/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  - Principal Architect, Microsoft Quantum (2017- )
+  - Principal Developer, Bing Platforms (2013-2017)
+  - Senior Developer, Xbox Live (2010-2013)
+  - Tech Lead, Yahoo! (2005- 2010)
