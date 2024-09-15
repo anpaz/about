@@ -2,6 +2,8 @@ A natural born trailblazer, I am consistently engaged in projects that are a bit
 
 ### Publications
 
+  - [Demonstration of quantum computation and error correction with a tesseract code](https://arxiv.org/abs/2409.04628)
+  - [End-to-End Quantum Simulation of a Chemical System](https://arxiv.org/abs/2409.05835)
   - [Demonstration of logical qubits and repeated error correction with better-than-physical error rates](https://arxiv.org/pdf/2404.02280)
   - [How to choose a decoder for a fault-tolerant quantum computer? The speed vs accuracy trade-off](https://arxiv.org/abs/2310.15313)
   - [Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL](https://dl.acm.org/doi/abs/10.1145/3183895.3183901)
