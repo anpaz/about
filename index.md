@@ -2,6 +2,7 @@ A natural born trailblazer, I am consistently engaged in projects that are a bit
 
 ### Publications
 
+  - [Logical computation demonstrated with a neutral atom quantum processor](https://arxiv.org/abs/2411.11822)
   - [Demonstration of quantum computation and error correction with a tesseract code](https://arxiv.org/abs/2409.04628)
   - [End-to-End Quantum Simulation of a Chemical System](https://arxiv.org/abs/2409.05835)
   - [Demonstration of logical qubits and repeated error correction with better-than-physical error rates](https://arxiv.org/pdf/2404.02280)
